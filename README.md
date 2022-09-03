@@ -1,0 +1,1 @@
+This file contains the solutions to logical exercises using pseudocode with the Pseint program
