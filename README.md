@@ -11,5 +11,7 @@ EGG & Banco Santander
 <br><br>
 
 CONTENIDO
-* Ejercicios.
+* Carpetas "guia": contine los ejercicios.
+* Carpeta "guias": contiene las consignas de cada ejercicio.
+* Archivo "perfil_config_pseint": personaliza el perfil de pseint.
 
