@@ -5,7 +5,7 @@
 <br>
 
 EGG & Banco Santander
-* Ejercicios lógicos, algoritmos resueltos usando el programa Pseint (pseudocódigo).
+* Ejercicios lógicos: algoritmos resueltos usando el programa Pseint (pseudocódigo).
 * Desarrollado integramente en equipos rotativos.
 * 81 horas lectivas.
 <br><br>
